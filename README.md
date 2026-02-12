@@ -1,38 +1,28 @@
 # Travis Eric
 
-**Founder & CEO, [Empowered Humanity, Inc.](https://empoweredhumanity.ai)** — Defense AI & Security Tooling
-
-Building autonomous threat detection, AI governance, and OSINT platforms for the defense and intelligence community.
+Builder. Founder. Full-stack engineer shipping AI, security, and automation tools.
 
 ## What I Build
 
-- **AI Security** — Agent threat detection, prompt injection defense, behavioral anomaly scoring
-- **OSINT Platforms** — Multi-scanner reconnaissance with MITRE ATT&CK mapping
-- **AI Governance** — Trust scoring, compliance detection, and model routing for regulated environments
-- **Document Intelligence** — RAG pipelines for defense and intelligence workflows
-- **Autonomous Agent Systems** — Orchestration frameworks for parallel AI task execution
+I build products that solve real problems — from AI orchestration frameworks to security tooling for defense. Currently shipping 14 products across AI, cybersecurity, and developer tools.
 
 ## Company
 
-[Empowered Humanity](https://empoweredhumanity.ai) builds security-first AI products for defense, intelligence, and critical infrastructure. We align with NIST 800-171, CMMC, and OWASP ASI frameworks.
-
-**NAICS:** 541511 · 541512 · 541519  
-**UEI:** TCSVT61BDNW4  
-**Entity:** Wyoming
+**[Empowered Humanity](https://github.com/empowered-humanity)** — AI-powered security tools for defense and critical infrastructure. Our open-source work lives there.
 
 ## Open Source
 
 | Project | Description |
 |---------|-------------|
-| [agent-security](https://github.com/Traviseric/agent-security) | AI agent security scanner — 176 detection patterns for prompt injection, credential exposure, OWASP ASI |
-| [crypto-toolkit](https://github.com/Traviseric/crypto-toolkit) | Opinionated cryptography — XChaCha20-Poly1305, Argon2id, Ed25519, X25519 |
-| [UniversalRAG-Public](https://github.com/Traviseric/UniversalRAG-Public) | Enterprise document intelligence — multi-format ingestion & semantic search |
-| [teneo-agent](https://github.com/Traviseric/teneo-agent) | Autonomous AI agent orchestration — task relay & parallel workers |
+| [@empowered-humanity/agent-security](https://github.com/empowered-humanity/agent-security) | AI agent security scanner — 176+ detection patterns |
+| [@empowered-humanity/crypto-toolkit](https://github.com/empowered-humanity/crypto-toolkit) | Cryptographic toolkit — XChaCha20, Argon2id, Ed25519 |
+| [UniversalRAG-Public](https://github.com/Traviseric/UniversalRAG-Public) | RAG framework for AI applications |
+| [teneo-agent](https://github.com/Traviseric/teneo-agent) | Agent orchestration framework |
 
-## Focus Areas
+## Stack
 
-`AI Security` · `Threat Detection` · `OSINT` · `Defense Tech` · `MITRE ATT&CK` · `Zero Trust` · `NIST 800-171` · `CMMC` · `OWASP ASI`
+`TypeScript` `Python` `Next.js` `Node.js` `React` `Tailwind` `PostgreSQL` `Redis` `Docker`
 
 ---
 
-*Building tools that make AI systems trustworthy and defense-ready.*
+*[empoweredhumanity.ai](https://empoweredhumanity.ai) — [traviseric.com](https://traviseric.com)*
