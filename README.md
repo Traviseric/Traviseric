@@ -24,7 +24,8 @@ Building autonomous threat detection, AI governance, and OSINT platforms for the
 
 | Project | Description |
 |---------|-------------|
-| [defense-ai-portfolio](https://github.com/Traviseric/defense-ai-portfolio) | Company portfolio & security product showcase |
+| [agent-security](https://github.com/Traviseric/agent-security) | AI agent security scanner — 176 detection patterns for prompt injection, credential exposure, OWASP ASI |
+| [crypto-toolkit](https://github.com/Traviseric/crypto-toolkit) | Opinionated cryptography — XChaCha20-Poly1305, Argon2id, Ed25519, X25519 |
 | [UniversalRAG-Public](https://github.com/Traviseric/UniversalRAG-Public) | Enterprise document intelligence — multi-format ingestion & semantic search |
 | [teneo-agent](https://github.com/Traviseric/teneo-agent) | Autonomous AI agent orchestration — task relay & parallel workers |
 
