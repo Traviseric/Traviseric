@@ -1,6 +1,6 @@
 # Travis Eric
 
-Self-taught. 22 months ago I had zero coding experience. Since then — 40+ projects, 3,160+ commits, and a full ecosystem of AI-powered tools across security, legal tech, publishing, and autonomous development.
+Self-taught. Started coding in early 2024 with zero experience. Since then — 40+ projects, 3,160+ commits, and a full ecosystem of AI-powered tools across security, legal tech, publishing, and autonomous development.
 
 I learned to build because I had to. AI made it possible. Everything here was built AI-native from day one.
 
