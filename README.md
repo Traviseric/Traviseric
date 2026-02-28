@@ -1,14 +1,18 @@
-# Travis Eric
+# Travis Bergsgaard
 
-Self-taught. Started coding in early 2024 with zero experience. Since then — 40+ projects, 3,160+ commits, and a full ecosystem of AI-powered tools across security, legal tech, publishing, and autonomous development.
+Builder. 40+ projects, 3,160+ commits, and a full ecosystem of tools across Bitcoin infrastructure, AI security, legal tech, publishing, and autonomous development.
 
-I learned to build because I had to. AI made it possible. Everything here was built AI-native from day one.
+I build systems that solve real problems — AI-native from day one. Everything here ships.
 
 Founder of [Empowered Humanity](https://github.com/empowered-humanity) — AI security tooling for defense and critical infrastructure.
 
 ---
 
 ## Areas of Focus
+
+### Bitcoin Infrastructure & Circular Economies
+Open-source tooling that lets any community deploy a private Bitcoin circular economy — Fedimint federation, Cashu ecash mints, Lightning L402 commerce rails — from a single prompt. Non-custodial by design, privacy by default. Currently piloting in Longmont, CO.
+> Open source: [arxmint](https://github.com/Traviseric/arxmint)
 
 ### AI Orchestration & Autonomous Development
 Systems that run fleets of AI agents to build, audit, and ship software autonomously. 75+ modular execution boxes, parallel workers, multi-account failover, and production readiness pipelines. The orchestration layer builds and maintains my other projects.
@@ -25,11 +29,7 @@ Systems that run fleets of AI agents to build, audit, and ship software autonomo
 22-signal detection engine modeling human mouse dynamics (Bezier curves, Fitts' law), keyboard timing (AR(1) inter-key intervals, digraph patterns), and scroll behavior. Adversarial Red vs Blue game controller for continuous self-improvement.
 
 ### Legal Intelligence
-Court document generation, financial forensics (Benford analysis, structuring detection), judge analytics, and RAG pipelines for case law — wired through a conversational AI system with 10 specialized missions. Built out of necessity.
-
-### Document Intelligence & RAG
-Enterprise-grade ingestion across PDFs, images, audio, and structured data. Semantic search and retrieval-augmented generation for production workloads.
-> Open source: [UniversalRAG-Public](https://github.com/Traviseric/UniversalRAG-Public)
+Court document generation, financial forensics (Benford analysis, structuring detection), judge analytics, and RAG pipelines for case law — wired through a conversational AI system with 10 specialized missions.
 
 ---
 
@@ -41,6 +41,7 @@ Frontend       Next.js · React · Tailwind · SwiftUI
 Backend        Node.js · FastAPI · PostgreSQL · Redis · Supabase
 Cloud          AWS Lambda · Step Functions · DynamoDB · S3 · Railway · Vercel
 AI/ML          Claude · GPT-4 · Gemini · pgvector · Pinecone · LangChain
+Bitcoin        Fedimint · Cashu · Lightning (LND/LNC) · L402 · Aperture
 Security       OWASP · Taint Analysis · Applied Cryptography · Compliance Scanning
 Infra          Docker · GitHub Actions · Codemagic · Claude Code Agents
 ```
@@ -64,5 +65,5 @@ AI-powered security and trust tooling for defense and critical infrastructure. O
 ---
 
 <p align="center">
-  <a href="https://traviseric.com">traviseric.com</a> · <a href="https://empoweredhumanity.ai">empoweredhumanity.ai</a>
+  <a href="https://traviseric.com">traviseric.com</a> · <a href="https://empoweredhumanity.ai">empoweredhumanity.ai</a> · <a href="https://arxmint.com">arxmint.com</a>
 </p>
