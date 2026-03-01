@@ -1,8 +1,8 @@
 # Travis Bergsgaard
 
-Builder. 40+ projects, 3,160+ commits, and a full ecosystem of tools across Bitcoin infrastructure, AI security, legal tech, publishing, and autonomous development.
+Builder. 40+ projects. A full ecosystem of tools across Bitcoin infrastructure, AI security, legal tech, publishing, and autonomous development.
 
-I build systems that solve real problems — AI-native from day one. Everything here ships.
+I build systems that solve real problems — AI-native from day one. Everything ships.
 
 Founder of [Empowered Humanity](https://github.com/empowered-humanity) — AI security tooling for defense and critical infrastructure.
 
